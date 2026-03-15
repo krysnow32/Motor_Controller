@@ -1,0 +1,11 @@
+../Core/Src/TLE_encoder.c:6:6:TLE_Encoder_ReadBytes	1
+../Core/Src/TLE_encoder.c:18:6:TLE_Encoder_WriteBytes	1
+../Core/Src/TLE_encoder.c:28:6:TLE_Encoder_Init	1
+../Core/Src/TLE_encoder.c:46:10:TLE_Encoder_ReadRawAngle	1
+../Core/Src/TLE_encoder.c:51:9:TLE_Encoder_ReadRawSpeed	2
+../Core/Src/TLE_encoder.c:60:6:TLE_Encoder_Reset	1
+../Core/Src/TLE_encoder.c:74:7:TLE_Encoder_ReadAngle	1
+../Core/Src/TLE_encoder.c:103:7:TLE_Encoder_GetAngle	1
+../Core/Src/TLE_encoder.c:108:7:TLE_Encoder_GetAngleMultiDeg	1
+../Core/Src/TLE_encoder.c:113:7:TLE_Encoder_GetSpeed	1
+../Core/Src/TLE_encoder.c:118:6:TLE_Encoder_SetZero	1
